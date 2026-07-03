@@ -60,20 +60,19 @@
 				)
 			)
 		)
-		(symbol "TB6612_Modulo_PonteH_0_1"
+		(symbol "TB6612_Modulo_PonteH_1_1"
 			(rectangle
 				(start 0 21.59)
 				(end 30.48 0)
 				(stroke
 					(width 0)
-					(type default)
+					(type solid)
 				)
 				(fill
-					(type none)
+					(type color)
+					(color 255 255 194 1)
 				)
 			)
-		)
-		(symbol "TB6612_Modulo_PonteH_1_1"
 			(pin input line
 				(at 0 19.05 0)
 				(length 2.54)
